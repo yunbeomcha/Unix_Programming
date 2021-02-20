@@ -1,0 +1,14 @@
+합계 56
+drwxr-xr-x.  2 s18013189 class 4096 2020-10-02 13:36 .
+drwx-----x. 11 s18013189 class 4096 2020-10-02 13:35 ..
+-rwxr-xr-x.  1 s18013189 class 6766 2020-10-02 13:18 test1
+-rw-r--r--.  1 s18013189 class  343 2020-10-02 13:18 test1.c
+-rwxr-xr-x.  1 s18013189 class 7319 2020-10-02 13:24 test2
+-rw-r--r--.  1 s18013189 class  793 2020-10-02 13:24 test2.c
+-rwxr-xr-x.  1 s18013189 class 7296 2020-10-02 13:35 test3
+-rw-r--r--.  1 s18013189 class  764 2020-10-02 13:35 test3.c
+-rw-r--r--.  1 s18013189 class  588 2020-10-02 13:14 test4.c
+-rw-r--r--.  1 s18013189 class  427 2020-10-02 13:14 testdata
+-rw-r--r--.  1 s18013189 class   17 2020-10-02 13:24 testdata1
+-rw-r--r--.  1 s18013189 class    0 2020-10-02 13:36 unix.txt
+Hanbit Media

@@ -1,0 +1,25 @@
+합계 116
+drwxr-xr-x.  2 s18013189 class 4096 2020-11-22 15:46 .
+drwx-----x. 20 s18013189 class 4096 2020-11-22 15:46 ..
+prw-r--r--.  1 s18013189 class    0 2020-11-22 15:06 FIFO
+prw-r--r--.  1 s18013189 class    0 2020-11-20 17:14 HAN-FIFO
+-rwxr-xr-x.  1 s18013189 class 7490 2020-11-20 16:50 client
+-rw-r--r--.  1 s18013189 class  507 2020-11-20 16:50 client.c
+-rwxr-xr-x.  1 s18013189 class 7882 2020-11-20 17:14 cltest
+-rw-r--r--.  1 s18013189 class  614 2020-11-20 17:10 cltest.c
+-rwxr-xr-x.  1 s18013189 class 7866 2020-11-20 16:50 server
+-rw-r--r--.  1 s18013189 class  615 2020-11-20 16:50 server.c
+-rwxr-xr-x.  1 s18013189 class 7434 2020-11-20 17:14 setest
+-rw-r--r--.  1 s18013189 class  507 2020-11-22 14:57 setest.c
+prw-r--r--.  1 s18013189 class    0 2020-11-22 14:56 test
+-rwxr-xr-x.  1 s18013189 class 7580 2020-11-13 15:24 test1
+-rw-r--r--.  1 s18013189 class 1045 2020-11-20 14:45 test1.c
+-rwxr-xr-x.  1 s18013189 class 7574 2020-11-20 14:46 test1_1
+-rw-r--r--.  1 s18013189 class 1034 2020-11-20 14:46 test1_1.c
+-rwxr-xr-x.  1 s18013189 class 7765 2020-11-18 15:16 test2
+-rw-r--r--.  1 s18013189 class  954 2020-11-22 15:46 test2.c
+-rwxr-xr-x.  1 s18013189 class 8135 2020-11-13 15:24 test3
+-rw-r--r--.  1 s18013189 class 1014 2020-11-13 15:23 test3.c
+-rwxr-xr-x.  1 s18013189 class 8049 2020-11-13 15:24 test4
+-rw-r--r--.  1 s18013189 class 1906 2020-11-13 15:23 test4.c
+-rw-r--r--.  1 s18013189 class    0 2020-11-22 15:47 testdata

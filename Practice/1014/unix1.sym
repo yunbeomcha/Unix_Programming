@@ -1,0 +1,29 @@
+합계 140
+drwxr-xr-x.  3 s18013189 class 4096 2020-10-18 15:22 .
+drwx-----x. 14 s18013189 class 4096 2020-10-18 15:19 ..
+-rwxr-xr-x.  1 s18013189 class 7909 2020-10-14 16:11 ex1
+-rwxr-xr-x.  1 s18013189 class 7561 2020-10-14 16:29 ex2
+drwxr-xr-x.  2 s18013189 class 4096 2020-10-14 16:30 hanbit
+-rwxr-xr-x.  1 s18013189 class 6990 2020-10-14 15:03 test1
+-rw-r--r--.  1 s18013189 class  442 2020-10-18 15:16 test1.c
+-rw-r--r--.  1 s18013189 class 3757 2020-10-14 16:14 test1_1.c
+-rw-r--r--.  1 s18013189 class  641 2020-10-14 16:28 test1_2.c
+-rwxr-xr-x.  1 s18013189 class 6476 2020-10-14 15:06 test2
+-rw-r--r--.  1 s18013189 class  163 2020-10-14 14:27 test2.c
+-rwxr-xr-x.  1 s18013189 class 7506 2020-10-14 15:06 test3
+-rw-r--r--.  1 s18013189 class  760 2020-10-14 14:27 test3.c
+-rwxr-xr-x.  1 s18013189 class 7203 2020-10-14 15:06 test4
+-rw-r--r--.  1 s18013189 class  519 2020-10-14 14:27 test4.c
+-rwxr-xr-x.  1 s18013189 class 7111 2020-10-14 15:11 test5
+-rw-r--r--.  1 s18013189 class  526 2020-10-14 14:28 test5.c
+-rwxr-xr-x.  1 s18013189 class 6866 2020-10-14 15:11 test6
+-rw-r--r--.  1 s18013189 class  336 2020-10-14 14:28 test6.c
+-rwxr-xr-x.  1 s18013189 class 7605 2020-10-14 15:18 test7
+-rw-r--r--.  1 s18013189 class  700 2020-10-14 15:18 test7.c
+-rwxr-xr-x.  1 s18013189 class 7666 2020-10-14 15:20 test8
+-rw-r--r--.  1 s18013189 class  785 2020-10-14 15:20 test8.c
+-rw-r--r--.  1 s18013189 class    0 2020-10-18 15:22 unix.txt
+-rw-rwx---.  2 s18013189 class  730 2020-10-14 15:03 unix1.ln
+lrwxrwxrwx.  1 s18013189 class    8 2020-10-14 16:29 unix1.sym -> unix.txt
+-rw-rwx---.  2 s18013189 class  730 2020-10-14 15:03 unix2.ln
+lrwxrwxrwx.  1 s18013189 class    8 2020-10-14 16:29 unix2.sym -> unix.txt

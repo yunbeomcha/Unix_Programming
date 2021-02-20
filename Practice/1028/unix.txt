@@ -1,0 +1,25 @@
+합계 132
+drwxr-xr-x.  4 s18013189 class 4096 2020-11-24 17:52 .
+drwx-----x. 21 s18013189 class 4096 2020-11-24 17:52 ..
+-rwxr-xr-x.  1 s18013189 class 8379 2020-10-30 17:07 ex1
+-rw-r--r--.  1 s18013189 class 2206 2020-10-28 15:32 ex1.c
+-rw-r--r--.  1 s18013189 class   59 2020-10-28 15:33 ex2.c
+-rwxr-xr-x.  1 s18013189 class 7892 2020-10-28 16:43 ex3
+-rw-r--r--.  1 s18013189 class 1246 2020-10-28 16:43 ex3.c
+drwxr-xr-x.  2 s18013189 class 4096 2020-10-28 14:53 sample
+drwxr-xr-x.  3 s18013189 class 4096 2020-10-28 15:16 subdir
+-rwxr-xr-x.  1 s18013189 class 6995 2020-10-28 12:24 test1
+-rw-r--r--.  1 s18013189 class  730 2020-10-28 14:52 test1.c
+-rwxr-xr-x.  1 s18013189 class 6989 2020-10-28 12:27 test2
+-rw-r--r--.  1 s18013189 class  360 2020-10-28 12:27 test2.c
+-rwxr-xr-x.  1 s18013189 class 7279 2020-10-28 12:28 test3
+-rw-r--r--.  1 s18013189 class  569 2020-10-28 12:28 test3.c
+-rwxr-xr-x.  1 s18013189 class 8177 2020-10-28 13:01 test4
+-rw-r--r--.  1 s18013189 class 1091 2020-10-28 11:49 test4.c
+-rwxr-xr-x.  1 s18013189 class 7502 2020-10-28 12:52 test5
+-rw-r--r--.  1 s18013189 class  730 2020-10-28 11:49 test5.c
+-rwxr-xr-x.  1 s18013189 class 7342 2020-10-30 17:21 testabc
+-rw-r--r--.  1 s18013189 class  476 2020-10-30 17:21 testabc.c
+-rwxr-xr-x.  1 s18013189 class 7062 2020-10-30 16:50 testfork
+-rw-r--r--.  1 s18013189 class  886 2020-10-30 16:50 testfork.c
+-rw-r--r--.  1 s18013189 class    0 2020-11-24 17:52 unix.txt

@@ -1,0 +1,48 @@
+합계 236
+drwxr-xr-x.  5 s18013189 class 4096 2020-11-23 15:34 .
+drwx-----x. 21 s18013189 class 4096 2020-11-23 15:33 ..
+-rwxr-xr-x.  1 s18013189 class 7633 2020-10-18 16:00 ex1
+-rw-r--r--.  1 s18013189 class 1585 2020-10-15 00:29 ex1.c
+-rwxr-xr-x.  1 s18013189 class 8298 2020-10-18 16:00 ex2
+-rw-r--r--.  1 s18013189 class  968 2020-10-15 00:30 ex2.c
+-rwxr-xr-x.  1 s18013189 class 7620 2020-10-18 16:00 ex3
+-rw-r--r--.  1 s18013189 class  712 2020-10-18 16:16 ex3.c
+-rwxr-xr-x.  1 s18013189 class 7708 2020-10-18 16:16 ex3_1
+-rwxr-xr-x.  1 s18013189 class 7483 2020-10-18 17:05 ex4
+-rw-r--r--.  1 s18013189 class  515 2020-10-18 17:05 ex4.c
+-rwxr-xr-x.  1 s18013189 class 7401 2020-10-18 16:00 ex5
+-rw-r--r--.  1 s18013189 class  504 2020-10-15 00:31 ex5.c
+-rwxr-xr-x.  1 s18013189 class 7903 2020-10-18 17:01 ex6
+-rw-r--r--.  1 s18013189 class  740 2020-10-18 17:01 ex6.c
+drwxr-xr-x.  2 s18013189 class 4096 2020-10-18 16:42 hanbit
+drwxr-xr-x.  2 s18013189 class 4096 2020-10-18 16:43 test
+-rw-r--r--.  1 s18013189 class    0 2020-11-23 15:34 test.dat
+lrwxrwxrwx.  1 s18013189 class    8 2020-11-23 15:33 test.sym -> test.dat
+-rwxr-xr-x.  1 s18013189 class 6990 2020-10-14 15:03 test1
+-rw-r--r--.  1 s18013189 class  442 2020-10-18 15:16 test1.c
+-rw-r--r--.  1 s18013189 class 3757 2020-10-14 16:14 test1_1.c
+-rw-r--r--.  1 s18013189 class  641 2020-10-14 16:28 test1_2.c
+-rwxr-xr-x.  1 s18013189 class 6476 2020-10-14 15:06 test2
+-rw-r--r--.  1 s18013189 class  163 2020-10-14 14:27 test2.c
+-rwxr-xr-x.  1 s18013189 class 7506 2020-10-14 15:06 test3
+-rw-r--r--.  1 s18013189 class  760 2020-10-14 14:27 test3.c
+-rwxr-xr-x.  1 s18013189 class 7203 2020-10-14 15:06 test4
+-rw-r--r--.  1 s18013189 class  579 2020-10-18 15:29 test4.c
+-rwxr-xr-x.  1 s18013189 class 7111 2020-10-14 15:11 test5
+-rw-r--r--.  1 s18013189 class  627 2020-10-18 15:36 test5.c
+-rwxr-xr-x.  1 s18013189 class 6866 2020-10-14 15:11 test6
+-rw-r--r--.  1 s18013189 class  387 2020-10-18 15:38 test6.c
+-rwxr-xr-x.  1 s18013189 class 7257 2020-11-23 15:18 test7
+-rw-r--r--.  1 s18013189 class  871 2020-11-23 15:18 test7.c
+-rwxr-xr-x.  1 s18013189 class 6963 2020-11-23 15:33 test7_1
+-rw-r--r--.  1 s18013189 class  344 2020-11-23 15:33 test7_1.c
+-rwxr-xr-x.  1 s18013189 class 7799 2020-10-18 15:54 test8
+-rw-r--r--.  1 s18013189 class  913 2020-10-18 15:53 test8.c
+drwxr-xr-x.  2 s18013189 class 4096 2020-10-18 16:42 testdir
+-rw-r--r--.  2 s18013189 class 1718 2020-10-18 15:22 unix.ln
+lrwxrwxrwx.  1 s18013189 class    8 2020-10-18 15:22 unix.sym -> unix.txt
+-rw-r--r--.  2 s18013189 class 1718 2020-10-18 15:22 unix.txt
+-rw-rwx---.  2 s18013189 class  730 2020-10-14 15:03 unix1.ln
+lrwxrwxrwx.  1 s18013189 class    8 2020-10-14 16:29 unix1.sym -> unix.txt
+-rw-rwx---.  2 s18013189 class  730 2020-10-14 15:03 unix2.ln
+lrwxrwxrwx.  1 s18013189 class    8 2020-10-14 16:29 unix2.sym -> unix.txt
